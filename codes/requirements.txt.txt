@@ -1,0 +1,9 @@
+PySide6
+torch==1.12.1
+opencv-python
+numpy
+timm
+pandas
+matplotlib
+easydict
+scipy
