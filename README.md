@@ -1,5 +1,5 @@
 # ColonVision
-An interactive system for Colonoscopy Assistance.
+A Colonoscopy Assistance System, for "National Student Biomedical Engineering Innovation Design Competition 2024".
 <div align="center">
     <p align="center">
     <img src="imgs/show_1.gif"/> <br />
